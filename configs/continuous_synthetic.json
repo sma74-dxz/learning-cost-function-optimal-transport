@@ -1,0 +1,13 @@
+{
+  "grid_size": 100,
+  "power": 2.0,
+  "epsilon": 0.1,
+  "pair_samples": 5000,
+  "batch_size": 1024,
+  "collocation_multiplier": 10,
+  "hidden_dim": 20,
+  "hidden_layers": 3,
+  "learning_rate": 0.001,
+  "iterations": 1500,
+  "seed": 7
+}

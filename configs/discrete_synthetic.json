@@ -1,0 +1,8 @@
+{
+  "n": 100,
+  "power": 2.0,
+  "epsilon": 0.01,
+  "forward_iterations": 1000,
+  "inverse_iterations": 1000,
+  "seed": 0
+}
